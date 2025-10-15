@@ -173,23 +173,25 @@ Choose from 5 classes, each with unique attributes and abilities:
 1. Make sure Python 3 is installed:
    ```bash
    python --version
-Clone the repository and enter the folder:
 
-bash
-Copiar código
+2. Clone the repository and enter the folder:
+```bash
 git clone https://github.com/your-username/RPG-Battle.git
 cd RPG-Battle
-Run the game:
+```
 
-bash
-Copiar código
+3. Run the game:
+```bash
 python main.py
+```
 
 4. Follow the on-screen instructions:
 
 - Choose your character's name.
 - Select your class.
 - Use abilities, manage resources, and defeat the enemy!
+
+---
 
 ## 🧠 Applied Concepts
 - Object-oriented programming (inheritance and polymorphism)
