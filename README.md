@@ -171,8 +171,8 @@ Choose from 5 classes, each with unique attributes and abilities:
 ## 🚀 How to Play
 
 1. Make sure Python 3 is installed:
-   ```bash
-   python --version
+```bash
+python --version
 
 2. Clone the repository and enter the folder:
 ```bash
