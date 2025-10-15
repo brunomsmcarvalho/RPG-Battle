@@ -55,10 +55,6 @@ Escolhe entre 5 classes, cada uma com atributos e habilidades únicas:
 ├── abilities_setup.py # Configuração das habilidades (não incluído neste exemplo)
 └── README.md
 
-
----
-
-
 ---
 
 ## 🚀 Como jogar
@@ -68,13 +64,13 @@ Escolhe entre 5 classes, cada uma com atributos e habilidades únicas:
    python --version
 
 2. Clona o repositório e entra na pasta:
-```bash
 git clone https://github.com/teu-utilizador/RPG-Battle.git
 cd RPG-Battle
 
+
 3. Executa o jogo:
-```bash
 python main.py
+
 
 4. Segue as instruções no ecrã:
 
