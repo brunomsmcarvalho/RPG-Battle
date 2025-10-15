@@ -81,7 +81,7 @@ python main.py
    -Selecciona a tua classe.  
    -Usa habilidades, gere recursos e derrota o inimigo!  
 
-🧠 Conceitos aplicados
+## 🧠 Conceitos aplicados
 
    -Programação orientada a objectos (herança e polimorfismo)  
    -Gestão de estados (HP, recursos, cooldowns)  
@@ -106,7 +106,6 @@ Criado com ❤️ em Python.
 
 \----\
 
-Dito pelo ChatGPT:
 ⚔️ RPG Battle – Python Terminal Game
 
 🎓 Developed as part of the Advanced Python module
