@@ -49,7 +49,7 @@ Escolhe entre 5 classes, cada uma com atributos e habilidades únicas:
 
 ## 🧩 Estrutura do projecto
 
-📦 RPG
+📦 RPG  
 ├── main.py # Lógica principal do jogo  
 ├── characters.py # Classes e atributos dos personagens  
 ├── abilities_setup.py # Configuração das habilidades (não incluído neste exemplo)  
@@ -89,6 +89,7 @@ python main.py
    -Modularização de código  
    -Aleatoriedade e IA simples  
    -Interacção via terminal  
+
 
 | Versão | Descrição                                                     |
 | :----- | :------------------------------------------------------------ |
