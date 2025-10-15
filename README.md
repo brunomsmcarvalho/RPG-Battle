@@ -58,49 +58,48 @@ Escolhe entre 5 classes, cada uma com atributos e habilidades únicas:
 
 ---
 
+
+---
+
 ## 🚀 Como jogar
 
 1. Certifica-te de ter o Python 3 instalado:
    ```bash
    python --version
-Clona o repositório e entra na pasta:
 
-bash
-Copiar código
+2. Clona o repositório e entra na pasta:
+```bash
 git clone https://github.com/teu-utilizador/RPG-Battle.git
 cd RPG-Battle
-Executa o jogo:
 
-bash
-Copiar código
+3. Executa o jogo:
+```bash
 python main.py
-Segue as instruções no ecrã:
 
-Escolhe o nome do teu personagem.
+4. Segue as instruções no ecrã:
 
-Selecciona a tua classe.
+ºEscolhe o nome do teu personagem.
 
-Usa habilidades, gere recursos e derrota o inimigo!
+ºSelecciona a tua classe.
+
+ºUsa habilidades, gere recursos e derrota o inimigo!
 
 🧠 Conceitos aplicados
-Programação orientada a objectos (herança e polimorfismo)
 
-Gestão de estados (HP, recursos, cooldowns)
+ºProgramação orientada a objectos (herança e polimorfismo)
+ºGestão de estados (HP, recursos, cooldowns)
+ºEstruturas de decisão e loops
+ºModularização de código
+ºAleatoriedade e IA simples
+ºInteracção via terminal
 
-Estruturas de decisão e loops
+| Versão | Descrição                                                     |
+| :----- | :------------------------------------------------------------ |
+| `v1.0` | Versão inicial jogável com 5 classes.                         |
+| `v1.1` | Ajustes de balanceamento e melhorias de interface.            |
+| `v2.0` | Planeado: sistema de itens, experiência e múltiplos inimigos. |
+| `v3.0` | Planeado: interface gráfica e modo história.                  |
 
-Modularização de código
-
-Aleatoriedade e IA simples
-
-Interacção via terminal
-
-🧭 Versões e desenvolvimento futuro
-Versão	Descrição
-v1.0	Versão inicial jogável com 5 classes.
-v1.1	Ajustes de balanceamento e melhorias de interface.
-v2.0	Planeado: sistema de itens, experiência e múltiplos inimigos.
-v3.0	Planeado: interface gráfica e modo história.
 
 📜 Licença
 
