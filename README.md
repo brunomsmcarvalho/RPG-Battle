@@ -81,6 +81,8 @@ python main.py
    -Selecciona a tua classe.  
    -Usa habilidades, gere recursos e derrota o inimigo!  
 
+---
+
 ## 🧠 Conceitos aplicados
 
    -Programação orientada a objectos (herança e polimorfismo)  
@@ -98,112 +100,115 @@ python main.py
 | `v2.0` | Planeado: sistema de itens, experiência e múltiplos inimigos. |
 | `v3.0` | Planeado: interface gráfica e modo história.                  |
 
+---
 
-📜 Licença
+## 📜 Licença
 
 Este projecto é de uso educativo e pode ser livremente partilhado e modificado para fins de aprendizagem.
 Criado com ❤️ em Python.
 
-\----\
+---
 
-⚔️ RPG Battle – Python Terminal Game
+# ⚔️ RPG Battle – Python Terminal Game
 
-🎓 Developed as part of the Advanced Python module
-Course in Computer Programming
+🎓 **Developed as part of the Advanced Python module**  
+Course: **Computer Programming**
 
-👥 Credits
+---
 
-Authors: Bruno Carvalho; Fábio Silva; Marco Nunes; Miguel Nicolau
-Instructor: Miguel Frias
-Year: 2025
-Institution: CENCAL - Professional Training Center, Caldas da Rainha
+## 👥 Credits
 
-🎮 Description
+**Authors:** Bruno Carvalho; Fábio Silva; Marco Nunes; Miguel Nicolau  
+**Instructor:** Miguel Frias  
+**Year:** 2025  
+**Institution:** CENCAL - Caldas da Rainha Vocational Training Center
 
-Welcome to RPG Battle, a turn-based command-line combat game developed in Python.
-Create your hero, face random enemies, and master the art of battle!
-Inspired by classic fantasy RPGs, this project was built as a practical exercise in object-oriented programming and combat logic.
+---
 
-🧙‍♂️ Playable Classes
+## 🎮 Description
+
+Welcome to **RPG Battle**, a turn-based command-line combat game developed in **Python**.  
+Create your hero, face random enemies, and master the arts of combat!  
+Inspired by classic fantasy RPGs, this project was created as a practical exercise in object-oriented programming and combat logic.
+
+---
+
+## 🧙‍♂️ Playable Classes
 
 Choose from 5 classes, each with unique attributes and abilities:
 
-Class	Resource	Style	Description
-🗡️ Warrior	Rage	Melee	Powerful attacks and defensive abilities.
-🔮 Mage	Mana	Magic	Master of fire spells and control abilities.
-🕶️ Rogue	Energy	Stealth	Critical strikes and paralyzing poisons.
-🌿 Druid	Mana	Hybrid	Can heal and command the forces of nature.
-🏹 Hunter	Mana	Ranged	Precise attacks and battlefield control.
-⚔️ Main Features
+| Class | Resource | Style | Description |
+|:------|:--------|:------|:-----------|
+| 🗡️ **Warrior** | Rage | Melee | Powerful attacks and defensive skills. |
+| 🔮 **Mage** | Mana | Magic | Specialist in fire spells and crowd control. |
+| 🕶️ **Rogue** | Energy | Stealth | Critical attacks and paralyzing poisons. |
+| 🌿 **Druid** | Mana | Hybrid | Can heal and manipulate nature. |
+| 🏹 **Hunter** | Mana | Ranged | Precise attacks and field control. |
 
-Turn-based combat system between player and enemy.
+---
 
-Class selection with unique abilities.
+## ⚔️ Key Features
 
-Basic enemy AI (random decisions with cooldowns and resource management).
+- **Turn-based combat** system between player and enemy.  
+- Class selection with **unique abilities**.  
+- **Basic AI** for enemies (random decisions with cooldown and resource management).  
+- **Cooldown system** and **resource regeneration**.  
+- **Clean text interface** with combat logs.  
+- **Ability guide** accessible via `help` command.  
 
-Cooldown system and resource regeneration.
+---
 
-Clean text-based interface with combat logs.
+## 🧩 Project Structure
 
-Ability guide accessible with the help command.
+📦 RPG  
+├── main.py # Main game logic  
+├── characters.py # Character classes and attributes  
+├── abilities_setup.py # Ability configuration (not included in this example)  
+└── README.md  
 
-🧩 Project Structure
+---
 
-📦 RPG
-├── main.py — Main game logic
-├── characters.py — Character classes and attributes
-├── abilities_setup.py — Ability configuration (not included in this example)
-└── README.md
+## 🚀 How to Play
 
-🚀 How to Play
+1. Make sure Python 3 is installed:
+   ```bash
+   python --version
+Clone the repository and enter the folder:
 
-Make sure you have Python 3 installed:
-
-python --version
-
-
-Clone the repository and open the folder:
-
+bash
+Copiar código
 git clone https://github.com/your-username/RPG-Battle.git
 cd RPG-Battle
-
-
 Run the game:
 
+bash
+Copiar código
 python main.py
 
+4. Follow the on-screen instructions:
 
-Follow the on-screen instructions:
+- Choose your character's name.
+- Select your class.
+- Use abilities, manage resources, and defeat the enemy!
 
-Choose your character’s name.
+## 🧠 Applied Concepts
+- Object-oriented programming (inheritance and polymorphism)
+- State management (HP, resources, cooldowns)
+- Decision structures and loops
+- Code modularization
+- Randomness and simple AI
+- Terminal interaction
 
-Select your class.
+| Version | Descripyion                                                     |
+| :----- | :--------------------------------------------------------------- |
+| `v1.0` | Initial playable version with 5 classes.                         |
+| `v1.1` | Balance adjustments and interface improvements.                  |
+| `v2.0` | Planned: item system, experience, and multiple enemies.          |
+| `v3.0` | Planned: graphical interface and story mode.                     |
 
-Use abilities, manage resources, and defeat your enemy!
+---
 
-🧠 Key Concepts Applied
-
-Object-oriented programming (inheritance and polymorphism)
-
-State management (HP, resources, cooldowns)
-
-Decision structures and loops
-
-Code modularization
-
-Randomness and simple AI
-
-Terminal-based interaction
-
-🧭 Versions & Future Development
-Version	Description
-v1.0	Initial playable version with 5 classes.
-v1.1	Balance adjustments and interface improvements.
-v2.0	Planned: item system, experience, and multiple enemies.
-v3.0	Planned: graphical interface and story mode.
-📜 License
-
-This project is for educational use and may be freely shared or modified for learning purposes.
+## 📜 License
+This project is for educational use and can be freely shared and modified for learning purposes.
 Created with ❤️ in Python.
 
