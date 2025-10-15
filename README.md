@@ -50,10 +50,10 @@ Escolhe entre 5 classes, cada uma com atributos e habilidades únicas:
 ## 🧩 Estrutura do projecto
 
 📦 RPG
-├── main.py # Lógica principal do jogo
-├── characters.py # Classes e atributos dos personagens
-├── abilities_setup.py # Configuração das habilidades (não incluído neste exemplo)
-└── README.md
+├── main.py # Lógica principal do jogo  
+├── characters.py # Classes e atributos dos personagens  
+├── abilities_setup.py # Configuração das habilidades (não incluído neste exemplo)  
+└── README.md  
 
 ---
 
@@ -77,18 +77,18 @@ python main.py
 
 4. Segue as instruções no ecrã:
 
-   -Escolhe o nome do teu personagem.
-   -Selecciona a tua classe.
-   -Usa habilidades, gere recursos e derrota o inimigo!
+   -Escolhe o nome do teu personagem.  
+   -Selecciona a tua classe.  
+   -Usa habilidades, gere recursos e derrota o inimigo!  
 
 🧠 Conceitos aplicados
 
-   -Programação orientada a objectos (herança e polimorfismo)
-   -Gestão de estados (HP, recursos, cooldowns)
-   -Estruturas de decisão e loops
-   -Modularização de código
-   -Aleatoriedade e IA simples
-   -Interacção via terminal
+   -Programação orientada a objectos (herança e polimorfismo)  
+   -Gestão de estados (HP, recursos, cooldowns)  
+   -Estruturas de decisão e loops  
+   -Modularização de código  
+   -Aleatoriedade e IA simples  
+   -Interacção via terminal  
 
 | Versão | Descrição                                                     |
 | :----- | :------------------------------------------------------------ |
