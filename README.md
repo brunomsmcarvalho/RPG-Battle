@@ -60,7 +60,7 @@ Escolhe entre 5 classes, cada uma com atributos e habilidades únicas:
 ## 🚀 Como jogar
 
 1. Certifica-te de ter o Python 3 instalado:
-   ```bash
+```bash
    python --version
 ```
 
@@ -75,20 +75,20 @@ cd RPG-Battle
 python main.py
 ```
 
-5. Segue as instruções no ecrã:
+4. Segue as instruções no ecrã:
 
--Escolhe o nome do teu personagem.
--Selecciona a tua classe.
--Usa habilidades, gere recursos e derrota o inimigo!
+   -Escolhe o nome do teu personagem.
+   -Selecciona a tua classe.
+   -Usa habilidades, gere recursos e derrota o inimigo!
 
 🧠 Conceitos aplicados
 
--Programação orientada a objectos (herança e polimorfismo)
--Gestão de estados (HP, recursos, cooldowns)
--Estruturas de decisão e loops
--Modularização de código
--Aleatoriedade e IA simples
--Interacção via terminal
+   -Programação orientada a objectos (herança e polimorfismo)
+   -Gestão de estados (HP, recursos, cooldowns)
+   -Estruturas de decisão e loops
+   -Modularização de código
+   -Aleatoriedade e IA simples
+   -Interacção via terminal
 
 | Versão | Descrição                                                     |
 | :----- | :------------------------------------------------------------ |
