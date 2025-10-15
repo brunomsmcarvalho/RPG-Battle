@@ -173,6 +173,7 @@ Choose from 5 classes, each with unique attributes and abilities:
 1. Make sure Python 3 is installed:
 ```bash
 python --version
+```
 
 2. Clone the repository and enter the folder:
 ```bash
