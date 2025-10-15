@@ -62,32 +62,33 @@ Escolhe entre 5 classes, cada uma com atributos e habilidades únicas:
 1. Certifica-te de ter o Python 3 instalado:
    ```bash
    python --version
+```
 
 2. Clona o repositório e entra na pasta:
+```bash
 git clone https://github.com/teu-utilizador/RPG-Battle.git
 cd RPG-Battle
-
+```
 
 3. Executa o jogo:
+```bash
 python main.py
+```
 
+5. Segue as instruções no ecrã:
 
-4. Segue as instruções no ecrã:
-
-ºEscolhe o nome do teu personagem.
-
-ºSelecciona a tua classe.
-
-ºUsa habilidades, gere recursos e derrota o inimigo!
+-Escolhe o nome do teu personagem.
+-Selecciona a tua classe.
+-Usa habilidades, gere recursos e derrota o inimigo!
 
 🧠 Conceitos aplicados
 
-ºProgramação orientada a objectos (herança e polimorfismo)
-ºGestão de estados (HP, recursos, cooldowns)
-ºEstruturas de decisão e loops
-ºModularização de código
-ºAleatoriedade e IA simples
-ºInteracção via terminal
+-Programação orientada a objectos (herança e polimorfismo)
+-Gestão de estados (HP, recursos, cooldowns)
+-Estruturas de decisão e loops
+-Modularização de código
+-Aleatoriedade e IA simples
+-Interacção via terminal
 
 | Versão | Descrição                                                     |
 | :----- | :------------------------------------------------------------ |
